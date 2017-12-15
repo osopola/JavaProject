@@ -19,7 +19,7 @@ public class Lab06 {
 		System.out.println(++c);
 		System.out.println(c++);
 		System.out.println(c);
-
+		// L
 		// 3-2
 		int apple = 123;
 		int bucket = 10;
